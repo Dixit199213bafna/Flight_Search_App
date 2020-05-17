@@ -1,6 +1,7 @@
 # FlightSearchApplication
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
+-Demo: https://flight-search-app-ipa4uu0w8.now.sh/flight-search
 
 ## Start Application
 - npm install
