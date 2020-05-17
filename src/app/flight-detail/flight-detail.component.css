@@ -1,0 +1,25 @@
+.field {
+  font-size: 18px;
+}
+.sub-field {
+  color:#ccc;
+}
+mat-card {
+  margin-bottom: 10px;
+}
+#multiFlight {
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-style: dotted;
+  background: darkgrey;
+}
+
+.timeDiff {
+  text-align: center;
+  margin: 10px;
+}
+
+.flightSearch {
+  background: blueviolet;
+}
